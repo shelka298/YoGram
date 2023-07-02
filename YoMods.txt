@@ -1,1 +1,1 @@
-{"ver1" : "1", "ver2" : "1", "title" : "New update available",  "msg" : "Update App Now From Matrex Mods free", "isdown" : "Download Now", "url" : "https://google.com"}
+{"ver1" : "9", "ver2" : "7", "title" : "New update available",  "msg" : "Update App Now From Matrex Mods free", "isdown" : "Download Now", "url" : "https://google.com"}
